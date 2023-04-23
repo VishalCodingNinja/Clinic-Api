@@ -1,0 +1,19 @@
+{
+    "swaggerDefinition": {
+      "info": {
+        "title": "Clinics API",
+        "version": "1.0.0",
+        "description": "Clinics API documentation",
+        "contact": {
+          "name": "Vishal Singh"
+        },
+        "servers": [
+          "http://localhost:8080"
+        ]
+      }
+    },
+    "apis": [
+      "app.js",
+      "./routes/*.js"
+    ]
+  }
